@@ -1,0 +1,5 @@
+[
+    {"id":"1","location":"London","Currency":"GBP","EMC":["1033","3773"], "Rent":["2346","1763","3817","2764"],"Buy Apartment":["14930","8168"],"Salary":"3562"},
+    {"id":"2","location":"Budapest","Currency":"HUF","EMC":["273790","991096"], "Rent":["261352","205862","468814","348880"],"Buy Apartment":["1742000","1189000"],"Salary":"512339"},
+    {"id":"3","location":"Manila","Currency":"PHP","EMC":["36002","127143"], "Rent":["30272","14656","104090","38111"],"Buy Apartment":["216875","139166"],"Salary":"28138"}
+]
