@@ -1,0 +1,8 @@
+{
+    "location":"London",
+    "Currency":"GBP",
+    "EMC":["1033","3773"], 
+    "Rent":["2346","1763","3817","2764"],
+    "Buy Apartment":["14930","8168"],
+    "Salary":"3562"
+}
