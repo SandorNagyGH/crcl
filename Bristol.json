@@ -1,8 +1,9 @@
 {
     "location":"Bristol",
-    "Currency":"Gbp",
+    "Currency":"GBP",
     "EMC":["875","3039"], 
     "Rent":["1333","1023","2238","1650"],
     "Buy Apartment":["5348","4860"],
     "Salary":"2627"
+
 }
