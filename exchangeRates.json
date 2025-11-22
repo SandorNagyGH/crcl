@@ -1,0 +1,50 @@
+{
+    "USD": {
+        "USDGBP": 0.76,
+        "USDEUR": 0.87,
+        "USDHUF": 333.07,
+        "USDPHP": 58.79,
+        "USDVND": 26352.96,
+        "USDTHB": 32.39
+    },
+    "GBP": {
+        "GBPUSD": 1.31,
+        "GBPEUR": 1.14,
+        "GBPHUF": 436.25,
+        "GBPPHP": 77.05,
+        "GBPVND": 34535.72,
+        "GBPTHB": 42.42
+    },
+    "HUF": {
+        "HUFGBP": 0.0023,
+        "HUFEUR": 0.0026,
+        "HUFUSD": 0.0030,
+        "HUFPHP": 0.18,
+        "HUFVND": 79.12,
+        "HUFTHB": 0.097
+    },
+    "PHP": {
+        "PHPGBP": 0.013,
+        "PHPEUR": 0.015,
+        "PHPHUF": 5.67,
+        "PHPUSD": 0.017,
+        "PHPVND": 448.25,
+        "PHPTHB": 0.55
+    },
+    "VND": {
+        "VNDGBP": 0.000029,
+        "VNDEUR": 0.000033,
+        "VNDHUF": 0.013,
+        "VNDUSD": 0.000038,
+        "VNDPHP": 0.0022,
+        "VNDTHB": 0.0012
+    },
+    "THB": {
+        "THBGBP": 0.024,
+        "THBEUR": 0.027,
+        "THBHUF": 10.28,
+        "THBUSD": 0.031,
+        "THBPHP": 1.81,
+        "THBVND": 813.44
+    }
+}
