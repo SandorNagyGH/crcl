@@ -15,6 +15,14 @@
         "GBPVND": 34535.72,
         "GBPTHB": 42.42
     },
+    "EUR": {
+        EURUSD": 1.15,
+        "EURGBP": 0.88,
+        "EURHUF": 383.44,
+        "EURPHP": 67.80,
+        "EURVND": 30322.00,
+        "EURTHB": 37.41
+    },
     "HUF": {
         "HUFGBP": 0.0023,
         "HUFEUR": 0.0026,
@@ -47,4 +55,5 @@
         "THBPHP": 1.81,
         "THBVND": 813.44
     }
+
 }
