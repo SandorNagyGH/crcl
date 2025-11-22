@@ -16,7 +16,7 @@
         "GBPTHB": 42.42
     },
     "EUR": {
-        EURUSD": 1.15,
+        "EURUSD": 1.15,
         "EURGBP": 0.88,
         "EURHUF": 383.44,
         "EURPHP": 67.80,
@@ -57,3 +57,4 @@
     }
 
 }
+
